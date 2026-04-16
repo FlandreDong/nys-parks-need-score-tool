@@ -1,0 +1,11 @@
+pandas
+geopandas
+shapely
+pyproj
+requests
+pydantic
+openpyxl
+xlrd
+matplotlib
+folium
+streamlit
